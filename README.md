@@ -5,3 +5,6 @@ Breast axillary lymph node (ALN) metastasis is a critical determinant of treatme
 ## Data source
 The original source of video and image data can be download from [[Zenodo]](https://zenodo.org/records/15003119).
 We also provide the extracted npy files of all video at [[video]](https://drive.google.com/drive/folders/188LpUn-xj0n8HEgvKjCIvw-RJZPa7SIX?usp=sharing). Each frame in the video modality is resized to 128 px × 200 px to ensure fair comparisons, with 50 frames uniformly sampled from each video.
+
+## Training for video/image
+```markdown
