@@ -1,4 +1,4 @@
 source /home/yjzhang/anaconda3/etc/profile.d/conda.sh
 conda activate pytorch1
 
-python main.py --device cuda:1 --root /datasets_hdd2/yjzhang/yajie/video_fujian --batch_size 8 --n_frame 100 --lr 0.0001 --epoch 100
+python main.py --device cuda:1 --root yourpath --batch_size 8 --n_frame 100 --lr 0.0001 --epoch 100
