@@ -10,3 +10,6 @@ We also provide the extracted npy files of all video at [[video]](https://drive.
 Select a method for video/image analysis, such as video_c3d/Conv3D or image-classification-master/Conv2D, then conduct the following command:
 ```markdown
 bash main.sh
+
+## Contact
+If you have any questions, please contact rubyzhangyajie@gmail.com 
